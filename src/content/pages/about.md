@@ -3,125 +3,53 @@ title: 关于
 seo:
   title: 关于我
   description: 了解更多关于我的信息
-  image:
-    src: 'https://is3-ssl.mzstatic.com/image/thumb/yOks8BV3jB5LNLybuUir8g/1200x630cw.jpg'
-    alt: Somebody's Headpic
 ---
-
-![Alt text for image](https://is3-ssl.mzstatic.com/image/thumb/yOks8BV3jB5LNLybuUir8g/1200x630cw.jpg)
-# はじめまして、ミカンです！
-
-## 自己紹介
-
-中国人、特技は日本語。実家は中国。
-
-[Chinese Edition](#自我介绍)
-
-### 日本語翻訳者
-
-中国語漫画界隈のいろいろ
-
-### デベロッパー
-
-使用しているプログラム言語：
-
-- `Java` `PHP` `C++` `Python`（バックエンドWeb開発）
-
-- `JavaScript` `HTML` `CSS`（フロントエンドWeb開発）
-
-GitHubは[こちら](https://github.com/mitian233)
-
-## ソシャゲプレイヤーについて
-
-### 今こそ遊んでいるゲーム（主は音ゲー）
-
-- バンドリ！ガールズバンドパーティー (プレイヤーID:`116600266`)
-- プロジェクトセカイ　カラフルステージ
-- D4DJ Groovy Mix (プレイヤーID:`65kttfAD`)
-- ラブライブ！sif
-- Muse Dash
-- Phigros
-- Genshin Impact
-- ウマ娘 プリティーダービー
-
-### 昔遊んだゲーム
-
-- Rhythm master
-- VOEZ
-- 崩壊3rd
-- 崩壊学園
-- アズールレーン
-- And more...
-
-## Social Links
-
-LINE:[みかん](https://line.me/ti/p/sJ_kxUpvSQ)
-
-Steam:[蜜柑🍊](https://steamcommunity.com/id/mitian233)
-
-Telegram:[SaijoClaudine](https://t.me/HaradaAyase)
-
-Twitter:[みかん](https://twitter.com/9_bishi)
-
-欲しい物リスト：[Amazon.co.jp](https://www.amazon.co.jp/-/ja/hz/wishlist/ls/2F20DO9BSDGF6)
-
 
 ## 自我介绍
 
-中国人，会说日语。现在居住在中国。
+中国人，~~可能是个学生~~🤔。现在居住在中国。
 
-### 翻译漫画
+本人的一大爱好就是看乐子，但是由于抽象程度过高，有时候自己也会变成乐子（
 
-将各种漫画翻译成中文供中国大陆以及其他中文使用者阅读。
+写作苦手，可能经常会输出一些让人理解不能的语言。
 
-### 会写一点程序
 
-正在使用的程序语言：
 
-- `Java` `PHP` `C++` `Python`（Web后端开发）
+##  我的一些技能
 
-- `JavaScript` `HTML` `CSS`（Web前端开发）
+- 精通各大软件的安装和卸载
+- 可能会写一些前端
+- 完全不会的后端
+- 唯一会写的代码是Bash
+- Android Buildbot
+- You Tell Me
+- ...
 
-GitHub请[按此](https://github.com/mitian233)
 
-## 关于自己在玩的各种社交游戏
 
-### 正在玩
+##  正在玩/曾经玩过的一些游戏
 
-- 少女乐团派对 梦想协奏曲（日服玩家账号:`116600266`）
-- 世界计划 多彩舞台
-- 深挖喜悦而直接的驱动音乐主持人 时髦的组合（日服玩家账号:`65kttfAD`）
-- 爱与演唱会!学园偶像祭（日服）
-- 喵斯快跑
-- 某下落式鸽游
-- 原神（国服玩家账号：`111265265`）
-- 赛马娘 漂亮的德比
+- HATSUNE MIKU: COLORFUL STAGE!
+- 崩坏：星穹铁道
+- Minecraft
+- 塞尔达传说旷野之息
+- osu
+- 明日方舟
+- 各种Galgame
 
-### 之前玩过
 
-- 节奏大师
-- 兰空
-- 崩坏3
-- 崩坏学园
-- 碧蓝航线
-- 还有更多...
 
-_使用了奇怪的翻译名称，还请见谅。_
+##  碎碎念
 
-## 以下是中文限定内容
+### 关于我的名字
 
-_~~其实单纯是因为懒得翻译~~_
+跟这个Blog模板的[开发者](https://astro-theme-akiba.vercel.app/about)一样，由于一些~~历史遗留问题~~我曾经也使用过一些奇怪的名字。
 
-认真地写一下吧，刚认识我的人可能翻完整个部落格还不知道我叫什么。标题是Aaki然后作者写的是Harada Ayase。如果你熟悉我的话可能还会喊我蜜柑。
+大约在22年之前，我的名字还是*狗和谐记*，所以我的Google,Telegram,X等平台的账号的名称与本部落格有所差别。
 
-其实这些都是我的名字，不过这里统一一下，叫我蜜柑就好。
+### 关于这个Blog
 
-Aaki是我初中某次秋天在班级的活动里想到的名字，没啥意义（可能跟aki秋天有关系），写成汉字是阿湫。
+在我还在上初中的时候，因为某个朋友的影响，我接触了网站建设。当初用网上随便找的网站空间部署了一个Typecho。也许是因为当时只是图一个新鲜，并没用运营多长时间。
 
-如果你在动漫之家或者各种汉化漫里头发现翻译或者嵌字名字叫湫的话，没错，那也是我。
+后来，在网上找教程的时候看到了一些非常有创意的网站，所以就再次冒出了建站的念头，经过几次尝试之后，便有了这个Blog。
 
-Harada Ayase是我的日文名啦，汉字写法是原田綾瀬。
-
-那蜜柑嘛，这个词在中文和日文里都写作蜜柑。所以就没有什么交流上的障碍了，这个也是我现在的名字。意义上呢其实都是ネタ自我喜欢的两个角色：高海千歌、戸山香澄。奇卡是蜜柑大使。香澄嘛，中文谐音香橙，又歪到蜜柑上去了（笑）。
-
-至于我之前还用过什么名字，那都是历史遗留问题，现在只会出现在各种邮箱的id上（例如mitian233），你要问我什么意义的话，我还真不一定能说上来。
