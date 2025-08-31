@@ -77,8 +77,8 @@ const siteConfig: SiteConfig = {
         alt: "Avatar"
     },
     author: "Suikol",
-    subtitle: "彩笔懒狗一个",
-    description: '彩笔懒狗一个',
+    subtitle: "漆黑的屏幕闪烁的光标,那是咱的生命所在",
+    description: '漆黑的屏幕闪烁的光标,那是咱的生命所在',
     // image: {
     //     src: '/dante-preview.jpg',
     //     alt: 'Dante - Astro.js and Tailwind CSS theme'
