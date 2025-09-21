@@ -1,3 +1,12 @@
+---
+title: '从零开始的zsh配置指南'
+publishDate: 'Sep 19 2025'
+tags:
+  - Starship
+  - linux
+  - zsh
+isFeatured: true
+---
 # 从零开始的zsh配置指南
 最近重装了下Arch，记录一下配置zsh的过程(~~水一篇Blog~~。
 ## 安装zsh🛠
