@@ -9,7 +9,7 @@ import type {
 } from '@giscus/vue';
 
 export type Image = {
-    src: string;
+    src: "/assets/avatar.jpg";
     alt?: string;
     caption?: string;
 };

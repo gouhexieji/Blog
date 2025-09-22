@@ -10,7 +10,9 @@ isFeatured: true
 # 从零开始的zsh配置指南
 最近重装了下Arch，记录一下配置zsh的过程(~~水一篇Blog~~。
 ## 安装zsh🛠
-```sudo pacman -S zsh zsh-completions```
+```
+sudo pacman -S zsh zsh-completions
+```
 > zsh-completions是一个zsh的自动补全增强模块
 ## 更改默认shell🔄
 在Arch下，新用户的默认shell是bash，需要手动切换为zsh
