@@ -16,8 +16,9 @@ draft: false
 # Giscus
 
 先在Github创建一个**公开**的仓库并**开启评论**用来存放评论。
-> 该仓库**必须**是公开的，否则访客将无法查看 discussion。
-
+:::important
+该仓库**必须**是公开的，否则访客将无法查看 discussion。
+:::
 然后在[这里](https://github.com/apps/giscus)安装Giscus App
 在这里填入用来存储评论的仓库
 ![](repo—url.png)
