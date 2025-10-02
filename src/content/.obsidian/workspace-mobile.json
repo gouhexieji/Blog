@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spec/about.md",
+                "file": "posts/astro-giscus/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "index"
             }
           }
         ]
@@ -156,8 +156,9 @@
   },
   "active": "39f3247fdc506420",
   "lastOpenFiles": [
-    "posts/astro-giscus/index.md",
+    "posts/astro-giscus/cover.png",
     "spec/about.md",
+    "posts/astro-giscus/index.md",
     "spec/avatar.jpg",
     "posts/zsh-config/index.md"
   ]
