@@ -1,8 +1,8 @@
 ---
 title: Yet Another Free AI
-published: 2025-09-01
+published: 2025-10-03
 description: 介绍一下来着美团的免费ai--longcat，并申请更高每日额度
-image: ./cover.jpg
+image: ./cover.png
 tags:
   - AI
   - 白嫖
